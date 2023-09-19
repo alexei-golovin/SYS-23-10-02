@@ -43,6 +43,11 @@
 
 ### Ответ на задание 1
 
+![](https://github.com/alexei-golovin/SYS-23-10-02/blob/main/files/101.jpg)
+![](https://github.com/alexei-golovin/SYS-23-10-02/blob/main/files/102.jpg)
+
+https://github.com/alexei-golovin/SYS-23-10-02/blob/main/files/conf_1.txt
+
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
 - Настройте балансировку Weighted Round Robin на 7 уровне, чтобы первый сервер имел вес 2, второй - 3, а третий - 4
